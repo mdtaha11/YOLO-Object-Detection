@@ -1,1 +1,3 @@
 https://colab.research.google.com/drive/1Cfx56dRuVj6WxIwazDKSwCz-Er2MnEE5?usp=sharing
+
+This notebook is created to generate weights on your image dataset of the object you want to detect using YOLO.
